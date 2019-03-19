@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1552681226 source:e:\projects\dijkstras algorithm c implementation\code\dijkstras.c
+	<stdio.h>
+	<stdlib.h>
+	<dijkstras.h>
+	<limits.h>
+
+1552681184 source:e:\projects\dijkstras algorithm c implementation\code\graph.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<graph.h>
+
+1552681216 source:e:\projects\dijkstras algorithm c implementation\code\minheap.c
+	<stdio.h>
+	<stdlib.h>
+	<minheap.h>
+	<math.h>
+
