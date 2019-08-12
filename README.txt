@@ -7,13 +7,13 @@ cityname\tcityname\tdistance\r\n
 
 Where cityname is a string and distance is an integer.
 
-To change the output city routes use edit the “citypairs.txt” file. 
-Make sure that the city names used are also within the “ukcities.txt” file. 
+To change the output city routes use edit the â€œcitypairs.txtâ€ file. 
+Make sure that the city names used are also within the â€œukcities.txtâ€ file. 
 Each city must be separated with a tab and each line terminated with a carriage 
 return and line feed characters. 
 
 For checking input files it is recommended that Notepad++ is used and the setting 
-“Show all Characters” selected so as to checkthe input file matches the required formatting. 
+â€œShow all Charactersâ€ selected so as to check the input file matches the required formatting. 
 
 Once the both files are setup, open and run the exe file. The output will then be saved to
-“output.txt” and can be viewed in any text editor.
+â€œoutput.txtâ€ and can be viewed in any text editor.
