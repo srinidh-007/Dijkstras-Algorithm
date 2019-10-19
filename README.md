@@ -1,4 +1,4 @@
-#Dijkstras Algorithm in C
+# Dijkstras Algorithm in C
 
 Run Dijkstras_Algorithm.exe to determine the shortest route between a graph of cities 
 in the ukcities.txt file. Output will be saved in output.txt.
